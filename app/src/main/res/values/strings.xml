@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RespondPage</string>
+    <string name="equipment" />
+    <string name="quantity">Quantity</string>
+    <string name="Equipment">Equipment</string>
+    <string name="Status">status</string>
+    <string name="equipment_status">Equipment Status</string>
+    <string name="equipment_requested">Equipment Requested</string>
+</resources>
